@@ -105,3 +105,8 @@ Sending Bob's transaction...
 │    0    │          45           │           3           │          5          │         47          │
 └─────────┴───────────────────────┴───────────────────────┴─────────────────────┴─────────────────────┘
 ```
+
+### Reference
+
+1. paulx: [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/#intro-motivation)
+2. @ironaddicteddog: [A Starter Kit for New Solana Developer](https://hackmd.io/@ironaddicteddog/solana-starter-kit#Interact-with-the-escrow-program)
