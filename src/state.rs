@@ -1,4 +1,3 @@
-use solana_program::pubkey::Pubkey;
 use solana_program::{
     program_pack::{IsInitialized, Pack, Sealed},
     program_error::ProgramError,
