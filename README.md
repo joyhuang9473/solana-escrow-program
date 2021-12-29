@@ -17,7 +17,7 @@ $ solana-test-validator
 $ cargo build-bpf
 ...
 
-$ solana program deploy target/deploy/bpf_program_template.so
+$ solana program deploy target/deploy/solana-escrow-program.so
 Program Id: AbZPvDpwh53TGR8if3xx9ZCJFz53DkZ7N6ToZ7YRyZi5
 ```
 
